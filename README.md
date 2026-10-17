@@ -22,7 +22,7 @@ The layout is dynamically sized using the available widget dimensions, allowing 
 - Configurable Telemetry Sources — GPS, altitude, RSSI, receiver battery and capacity sources can be assigned through widget settings.
 - Configurable Switches — Motor, landing gear and flap switches can be assigned through widget settings.
 
-**What's Different in fltDashP3 V2?**
+**What's Different in fltDashP3v2?**
 - Current replaces Altitude — Displays current draw in amps.
 - Rearranged Layout — Model, RSSI and GPS are displayed in the top bar.
 - Middle Column — RxBat, Capa and Flight Timer, each with its own icon.
@@ -34,3 +34,15 @@ The layout is dynamically sized using the available widget dimensions, allowing 
 - Optimised around a 480-pixel-wide display
 - Layout uses the widget's available dimensions to accommodate different screen heights
 - Tested on the Radiomaster TX16S MK2, GX15 & TX15
+
+**Images**
+
+fltDashP3
+
+<img width="495" height="286" alt="image" src="https://github.com/user-attachments/assets/17ad5575-67e5-43c9-bb4c-fa7c8753f6c7" />
+
+fltDashP3v2
+
+<img width="501" height="289" alt="image" src="https://github.com/user-attachments/assets/f5a2bc56-423c-4e22-a81a-98371d36c4ae" />
+
+
