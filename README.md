@@ -39,6 +39,15 @@ _This project started when Kamil Poslada asked on a Facebook group if anyone cou
 - Layout uses the widget's available dimensions to accommodate different screen heights
 - Tested on the Radiomaster TX16S MK2, GX15 & TX15
 
+**Installation & Setup**
+- Download the ZIP file
+- Extract the contents of the ZIP file
+- Locate the last folder named fltDashP3 or fltDashP3v2 (it contains main.lua)
+- Copy this fltDashP3 or fltDashP3v2 folder only
+- Paste the folder into your SDCard/WIDGETS folder
+- Use the Widget Options to assign the telemetry and switches
+- Save your model image as a .png file in the SDCard/IMAGES/ folder, using the exact model name, including matching capitalisation.
+
 **Images**
 
 fltDashP3
