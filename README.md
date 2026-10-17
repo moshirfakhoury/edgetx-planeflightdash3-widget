@@ -5,6 +5,10 @@ Both dashboards are a modern telemetry and flight dashboard widgets for EdgeTX 2
 The dashboard provides a compact view of the most important flight and model information, combining telemetry, battery status, throttle, aircraft configuration and a model-specific image into a single screen.
 The layout is dynamically sized using the available widget dimensions, allowing it to adapt to different screen heights while maintaining the same 480-pixel-wide layout.
 
+**Project Background**
+
+_This project started when Kamil Poslada asked on a Facebook group if anyone could create an EdgeTX telemetry dashboard for the RadioMaster GX15. I volunteered to take on the challenge, using their AI-generated image as inspiration to recreate the design as a fully functional EdgeTX dashboard widget._
+
 **Features**
 - RSSI / Signal — 5-bar signal indicator with dynamic bar levels and green, yellow, red and no-signal colour states.
 - Receiver Battery — Displays receiver voltage, calculated cell voltage, battery percentage and colour-coded battery level.
@@ -44,5 +48,10 @@ fltDashP3
 fltDashP3v2
 
 <img width="501" height="289" alt="image" src="https://github.com/user-attachments/assets/f5a2bc56-423c-4e22-a81a-98371d36c4ae" />
+
+AI-Generated Design of this telemetry dashboard
+
+<img width="790" height="356" alt="image" src="https://github.com/user-attachments/assets/a098b53e-68b4-491b-8f50-dcc43682c3cd" />
+
 
 
