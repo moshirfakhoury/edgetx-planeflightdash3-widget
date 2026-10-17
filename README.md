@@ -7,7 +7,7 @@ The layout is dynamically sized using the available widget dimensions, allowing 
 
 **Project Background**
 
-_This project started when Kamil Poslada asked on a Facebook group if anyone could create an EdgeTX telemetry dashboard for the RadioMaster GX15. I volunteered to take on the challenge, using their AI-generated image as inspiration to recreate the design as a fully functional EdgeTX dashboard widget._
+_This project started when Kamil Poslada asked on a Facebook group if anyone could create an EdgeTX telemetry dashboard for the RadioMaster GX15. I volunteered to take on the challenge, using his AI-generated image I recreate the design as a fully functional EdgeTX dashboard widget._
 
 **Features**
 - RSSI / Signal — 5-bar signal indicator with dynamic bar levels and green, yellow, red and no-signal colour states.
