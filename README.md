@@ -32,6 +32,21 @@ _This project started when Kamil Poslada asked on a Facebook group if anyone cou
 - Middle Column — RxBat, Capa and Flight Timer, each with its own icon.
 - Same Core Features — Model image, throttle bar, motor, landing gear and flap indicators retained.
 
+**What's Different in fltDashP3vh?**
+
+fltDashP3vh builds on the original dashboard while introducing helicopter-specific features.
+
+- RPM Display — Replaces the throttle bar with a configurable telemetry RPM reading, making rotor speed information easy to see at a glance.
+- ARM Status — Replaces the Landing Gear panel with an ARM status indicator. A custom power-button icon changes colour depending on whether ARM is ON or OFF.
+- ESC Temperature — Replaces the Flaps panel with a configurable ESC temperature reading displayed in degrees Celsius, alongside a custom thermometer icon.
+- Flight Bank Indicator — Displays the current flight bank in the top information bar, making it easy to identify the active flight mode at a glance.
+- TX Battery Warning Indicator — Adds a small coloured circle inside the RxBat panel to monitor transmitter battery voltage:
+  - Green: Above 7.3V
+  - Orange: From 6.8V up to and including 7.3V
+  - Flashing Red: At or below 6.8V
+- Custom Icons — Adds dedicated icons for ARM status and ESC temperature, matching the dashboard's visual style.
+- Responsive Layout — Uses the widget's available screen dimensions to position and size its panels, helping the dashboard adapt to different transmitter screen resolutions.
+
 **Compatibility**
 - EdgeTX 2.11+
 - Designed for colour LCD radios
@@ -52,11 +67,15 @@ _This project started when Kamil Poslada asked on a Facebook group if anyone cou
 
 fltDashP3
 
-<img width="495" height="286" alt="image" src="https://github.com/user-attachments/assets/17ad5575-67e5-43c9-bb4c-fa7c8753f6c7" />
+<img width="491" height="278" alt="image" src="https://github.com/user-attachments/assets/3811a21f-c0bd-4baa-97fc-bd4f1dee1e76" />
 
 fltDashP3v2
 
 <img width="501" height="289" alt="image" src="https://github.com/user-attachments/assets/f5a2bc56-423c-4e22-a81a-98371d36c4ae" />
+
+fltDashP3vh
+
+<img width="485" height="279" alt="image" src="https://github.com/user-attachments/assets/501a0d3a-77f8-4080-91c7-1de647d87494" />
 
 AI-Generated Design of this telemetry dashboard
 
