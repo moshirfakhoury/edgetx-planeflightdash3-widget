@@ -41,8 +41,8 @@ fltDashP3vh builds on the original dashboard while introducing helicopter-specif
 - ESC Temperature — Replaces the Flaps panel with a configurable ESC temperature reading displayed in degrees Celsius, alongside a custom thermometer icon.
 - Flight Bank Indicator — Displays the current flight bank in the top information bar, making it easy to identify the active flight mode at a glance.
 - TX Battery Warning Indicator — Adds a small coloured circle inside the RxBat panel to monitor transmitter battery voltage:
-  - Green: Above 7.3V
-  - Orange: From 6.8V up to and including 7.3V
+  - Green: Above 7.4V
+  - Orange: From 6.8V up to and including 7.4V
   - Flashing Red: At or below 6.8V
 - Custom Icons — Adds dedicated icons for ARM status and ESC temperature, matching the dashboard's visual style.
 - Responsive Layout — Uses the widget's available screen dimensions to position and size its panels, helping the dashboard adapt to different transmitter screen resolutions.
