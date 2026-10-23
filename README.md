@@ -44,7 +44,6 @@ fltDashP3vh builds on the original dashboard while introducing helicopter-specif
   - Green: Above 7.4V
   - Orange: From 6.8V up to and including 7.4V
   - Flashing Red: At or below 6.8V
-- Custom Icons — Adds dedicated icons for ARM status and ESC temperature, matching the dashboard's visual style.
 - Responsive Layout — Uses the widget's available screen dimensions to position and size its panels, helping the dashboard adapt to different transmitter screen resolutions.
 
 **Compatibility**
